@@ -1,5 +1,5 @@
-console.log("I am User1");
+console.log("私はuser1です。");
 
-window.onload = ()=> {
-    console.log("Hello World");
-}
+window.onload = () => {
+  console.log("Hello World");
+};
